@@ -19,13 +19,13 @@ Note
 ... what is widely thought to have been a hydrogen bomb, such a moratorium would be welcomed by the United States and the world.
 
 : But there is also significant risk for Trump in agreeing to a meeting apparently without the kind of firm preconditions sought by previous U.S. administrations.
-但xxx是非常危险的,在xxx的情况下
-在明显没有(前美国政府那样的搜寻先决条件)的情况下
+但...是非常危险的,在xxx的情况下
+xxx=在明显没有(前美国政府那样的搜寻先决条件)的情况下
 
 : wary 警惕 of offering
 : Kim regime 金政权
 ... because American presidents have been wary of offering the Kim regime the validation of a leaders-level summit on the global stage.
-xxx 因为美国总统曾警惕为金政权提供(世界平台的)(领袖层面的)峰会
+... 因为美国总统曾警惕为金政权提供(世界平台的)(领袖层面的)峰会
 
 [5]
 : obligation 义务
@@ -66,7 +66,7 @@ Trump告诉助手,在谈话前,他期望他们[them]保持[在过去一年中][�
 
 [12]
 : ... the North has made promises before, only to break them.
-only 有很多意思，这里是 in final outcome
+only 有很多意思,这里是 in final outcome
 
 : .. violated the agreement by ...
 词汇搭配 [violate] [agreement]
@@ -75,20 +75,23 @@ only 有很多意思，这里是 in final outcome
 : National Security Council 国家安全委员会
 
 : ... the Kim regime has sought talks with the U.S. president as a way to gain legitimacy as a nuclear power.
-金政权曾寻求与美国总统会谈[seek talk with], 作为获得核电合法性的一种方式
+金政权曾寻求与美国总统会谈[seek talk with]（这种行为是）作为核能合法化的一种方式
+Bears get into the state of hibernation as a way to pass the winter.
 
 [14]
 : They have long said that ... 他们(long:很早之前)就说过了
 
 : The fact that they’re looking for the face and the legitimization and the validation of direct engagement of the president of the United States is not new
 The fact [xxx] is not new.
-[xxx] = they’re looking for [yyy] of direct engagement of the president of the United States
-[yyy] = the face and the legitimization and the validation
-他们寻找 直接介入美国总统 的
+这件事实xxx很常见
+[xxx] = they’re looking for [yyy]
+他们正寻求yyy
+[yyy] = the face and the legitimization and the validation of direct engagement of the president of the United States
+美国总统的直接介入,样貌形象 & 合法化 & 确认 (关于核能合法化,需语境,上一段最后)
 
 : Soviet Union 苏联 苏维埃社会主义共和国联盟
 : And it’s not inconsistent with their strategy of seeking to be treated like the Soviet Union, seeking to be accepted as a nuclear peer.
-这与他们寻求如苏联般被对待的战略意图并不违背，他们寻求(试图／谋求)被接受为核对手。
+这与他们寻求如苏联般被对待的战略意图并不违背,他们寻求(试图／谋求)被接受为核对手。
 
 [15]
 : Kim Il Sung 金日成
@@ -108,7 +111,8 @@ The fact [xxx] is not new.
 : juncture 关头 a particular point in events or time / a place where things join.
 
 [20]
-: A be flanked by B  B于A的侧翼
+: A be flanked by B
+B于A的侧翼
 
 [22]
 : Shinzo Abe 安倍晋三
@@ -131,7 +135,7 @@ The fact [xxx] is not new.
 
 [38]
 : unorthodox 非正统的
-: Republican 共和党领带 ties (红 - 共和党，蓝 - 民主党)
+: Republican 共和党领带 ties (红 - 共和党,蓝 - 民主党)
 
 [39]
 : underway
