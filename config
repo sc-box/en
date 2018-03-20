@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github-sub:sc-box/en.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = sc-box
+	email = wang.sc@yahoo.com
