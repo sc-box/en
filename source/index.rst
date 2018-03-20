@@ -6,4 +6,4 @@
 Reading
 =======
 
-* `txt <_static/eng/20180308>`__ `note <_static/eng/20180308_note>`__ Trump accepts invitation to meet with North Korean leader Kim Jong Un 
+* `txt <_static/eng/20180308.txt>`__ `note <_static/eng/20180308_note>`__ Trump accepts invitation to meet with North Korean leader Kim Jong Un 
