@@ -3,7 +3,7 @@
 Reading
 =======
 
-* `[text] <_static/eng/20180308.txt>`__ `[note] <_static/eng/20180308-note.txt>`__
+* `[text] <_static/eng/20180308.txt>`__ `[note] <_static/eng/20180308n.txt>`__
   Trump accepts invitation to meet with North Korean leader Kim Jong Un 
 * Trump shakes up team of lawyers as legal threats mount
 * Trump prepared to hit China with $60 billion in annual tariffs
